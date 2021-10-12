@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dradept
 - 👀 I’m interested in web developement and design
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning php, python and javascript
 - 💞️ I’m looking to collaborate on front and back ends
 - 📫 How to reach me www.dradept.com or www.radisic.com
 
